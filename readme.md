@@ -5,3 +5,5 @@
 * Block Explorer 1: https://testscan.bt.io/
 * Block Explorer 2: https://testnet.bttcscan.com/
 * WebSocket: wss://pre-rpc.bt.io:8546
+* Faucet: https://testfaucet.bt.io/#/
+* 
